@@ -11,7 +11,11 @@ Um das Projekt lokal auszuführen, folge diesen Schritten:
    ```bash
    git clone https://github.com/matskeim-spec/post-your-work-project
 
-2. Stelle sicher, dass du Python 3 installiert hast. Installiere die erforderlichen Pakete
+2. Navigiere in das Projekverzeichnis:
+    ```bash
+    cd post-your-work-project
+
+3. Stelle sicher, dass du Python 3 installiert hast. Installiere die erforderlichen Pakete
     ```bash
     pip install -r requirements.txt
 
