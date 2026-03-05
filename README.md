@@ -19,8 +19,14 @@ Um das Projekt lokal auszuführen, folge diesen Schritten:
     ```bash
     pip install -r requirements.txt
 
+## Verwendung
+Um das Programm auszuführen, verwende den folgenden Befehl:
+```bash
+python bikeshare.py
+```
 
-# Beitragsrichtlinien
+
+## Beitragsrichtlinien
 
 Vielen Dank, dass du daran interessiert bist, zu unserem Projekt beizutragen! Hier sind einige Richtlinien, die du beachten solltest:
 
